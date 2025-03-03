@@ -1,4 +1,4 @@
-![Calculator](ex1_1.jpeg)
+![Calculator](Images/ex1_1.jpeg)
 
 # Calculator
 

@@ -39,7 +39,7 @@ The author of this READ ME is **Ramona Enzi**. For further questions you can rea
 
 ### Links zu weiteren Übungsaufgaben:
 1. [Übung 1](exercise1.md)
-2. Übung 2
+2. [Übung 2](exercise2.md)
 3. Übung 3
 4. Übung 4
 5. Übung 5
