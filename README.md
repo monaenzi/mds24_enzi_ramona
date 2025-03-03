@@ -44,3 +44,8 @@ The author of this READ ME is **Ramona Enzi**. For further questions you can rea
 4. Übung 4
 5. Übung 5
 6. Übung 6
+
+### Weitere Links:
+
+- zu meinem [GitHub](https://github.com/monaenzi)
+- zur [FH-Website](https://www.fh-joanneum.at)
